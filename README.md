@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vicky Pandey Founder of Tech Iterator.
 - 👀 I’m a Web developer.
-- 🌱 Currrently working ASP.Net framework.
+- 🌱 Currrently working in ASP.Net framework.
 - 💞️ 
 - 📫 
 
