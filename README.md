@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bikky Kumar Pandey Founder of Tech Iterator.
-- 👀 I’m a Web developer.
-- 🌱 Currrently working in ASP.Net framework.
-- 💞️ AWS Enthusiast.
+- 👀 I’m a Data Analyst.
+- 🌱 Currrently working in Sears Holdings India.
+- 💞️ Data Scientists Enthusiasts.
 - 📫 Tech Speaker
 
 <!---
